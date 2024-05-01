@@ -8,6 +8,8 @@
         "xutility": "cpp",
         "xiosbase": "cpp",
         "cstdlib": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "atomic": "cpp",
+        "memory": "cpp"
     }
 }
