@@ -10,6 +10,7 @@
         "cstdlib": "cpp",
         "algorithm": "cpp",
         "atomic": "cpp",
-        "memory": "cpp"
+        "memory": "cpp",
+        "ostream": "cpp"
     }
 }
