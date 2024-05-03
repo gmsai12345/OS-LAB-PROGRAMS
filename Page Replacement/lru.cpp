@@ -18,7 +18,7 @@ int main()
                 s.insert(pages[i]);
                 miss++;
             }
-                map[pages[i]]=i;
+                map[pages[i]]=i; // in lru map stores the last index where in lfu it stores the frequence
         }
         else
         {
